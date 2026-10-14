@@ -7,7 +7,7 @@
 
 <!-- APENAS AS SUAS ÁREAS SENDO DIGITADAS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine%20Learning%20Engineer;Data%20Scientist%20%26%20MLOps;Especialista%20em%20PyTorch%2C%20Scikit-Learn%20e%20XGBoost;Infraestrutura%20com%20AWS%2C%20GCP%2C%20Terraform%20e%20Docker&font=Fira%20Code&center=true&width=620&height=40&color=f75c7e&vCenter=true&pause=1000&size=19" alt="Áreas de Atuação" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%26%20MLOps;Machine%20Learning%20Engineer;&font=Fira%20Code&center=true&width=620&height=40&color=f75c7e&vCenter=true&pause=1000&size=19" alt="Áreas de Atuação" />
 </p>
 
 <p align="center">
