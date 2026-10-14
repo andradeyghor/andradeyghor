@@ -7,7 +7,25 @@
 
 <!-- APENAS AS SUAS ÁREAS SENDO DIGITADAS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%26%20MLOps;Machine%20Learning%20Engineer;&font=Fira%20Code&center=true&width=620&height=40&color=f75c7e&vCenter=true&pause=1000&size=19" alt="Áreas de Atuação" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%26%20MLOps;Machine%20Learning%20Engineer&font=Fira%20Code&center=true&width=620&height=40&color=f75c7e&vCenter=true&pause=1000&size=19" alt="Áreas de Atuação" />
+</p>
+
+<!-- LOGOS DAS TECNOLOGIAS ABAIXO DAS ÁREAS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-f75c7e?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-f75c7e?style=for-the-badge&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PyTorch-f75c7e?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-f75c7e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-f75c7e?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-f75c7e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Power_BI-f75c7e?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/AWS-f75c7e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-f75c7e?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Terraform-f75c7e?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-f75c7e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p align="center">
