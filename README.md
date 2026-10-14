@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvendo modelos de Machine Learning de alta performance, pipelines analíticos e infraestrutura moderna em nuvem.</em>
+  <em>Colocando em prática meus conhecimentos de Machine Learning</em>
 </p>
 
 ---
@@ -30,15 +30,15 @@
 
 ### Sobre mim
 
-- Desenvolvendo soluções ponta a ponta em **Ciência de Dados & Machine Learning**.
-- Modelagem preditiva e Deep Learning com foco em **PyTorch, Scikit-Learn e XGBoost**.
-- Construção de APIs para modelos com **FastAPI** e dashboards analíticos com **Power BI**.
-- Provisionamento de infraestrutura escalável com **Terraform**, **Docker**, **AWS** e **Google Cloud (GCP)**.
-- Aberto a conexões e projetos em **Machine Learning, Cloud e Engenharia de Dados**.
+- Finalizando graduação em **Ciência de Dados**.
+- Atuação em Modelagem Preditiva e Deep Learning com foco em **PyTorch, Scikit-Learn e XGBoost**.
+- Provisionamento de infraestrutura escalável com **Terraform**, **Docker**, **AWS** e **Google Cloud**.
+- Foco em **Crédito** & **IA Generativa**.
+- Aberto a conexões para projetos de **Machine Learning, Cloud e Engenharia de Dados**.
 
 ---
 
-### Contato
+### Você pode me contatar nos seguintes canais
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yghorandrade/" target="_blank">
