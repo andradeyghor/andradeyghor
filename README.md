@@ -28,43 +28,6 @@
 
 ---
 
-### Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-f75c7e?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-f75c7e?style=for-the-badge&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PyTorch-f75c7e?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-f75c7e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-f75c7e?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-f75c7e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Power_BI-f75c7e?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/AWS-f75c7e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-f75c7e?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Terraform-f75c7e?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-f75c7e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
----
-
-<details open>
-  <summary><h3>Projetos em Destaque</h3></summary>
-  <br/>
-  
-  <p align="center">
-    <a href="https://github.com/andradeyghor/NOME_DO_PROJETO_1">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=andradeyghor&repo=NOME_DO_PROJETO_1&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 1" />
-    </a>
-    <a href="https://github.com/andradeyghor/NOME_DO_PROJETO_2">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=andradeyghor&repo=NOME_DO_PROJETO_2&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 2" />
-    </a>
-  </p>
-</details>
-
----
-
 ### Contato
 
 <p align="center">
