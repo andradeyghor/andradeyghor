@@ -58,7 +58,4 @@
   <a href="mailto:andradeyghor@gmail.com">
     <img src="https://api.iconify.design/mdi/gmail.svg?color=%23f75c7e&height=36" alt="Gmail" title="Gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="curriculo.pdf" target="_blank">
-    <img src="https://api.iconify.design/mdi/file-document-outline.svg?color=%23f75c7e&height=36" alt="Currículo" title="Baixar Currículo (PDF)" />
-  </a>
 </p>
