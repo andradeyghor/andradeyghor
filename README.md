@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- TÍTULO ESTÁTICO CARREGADO INSTANTANEAMENTE DO SEU REPOSITÓRIO (#f75c7e) -->
+<!-- TÍTULO ESTÁTICO (#f75c7e) -->
 <p align="center">
-  <img src="title.svg" alt="Olá, eu sou Yghor!" height="45" />
+  <img src="title.svg" alt="Olá, eu sou Yghor!" height="100" />
 </p>
 
 <!-- APENAS AS SUAS ÁREAS SENDO DIGITADAS -->
@@ -10,22 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist%20%26%20MLOps;Machine%20Learning%20Engineer&font=Fira%20Code&center=true&width=620&height=40&color=f75c7e&vCenter=true&pause=1000&size=19" alt="Áreas de Atuação" />
 </p>
 
-<!-- LOGOS DAS TECNOLOGIAS ABAIXO DAS ÁREAS -->
+<!-- APENAS OS 6 LOGOS PUROS (SEM FUNDO, SEM QUADRADO, COR #f75c7e) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-f75c7e?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-f75c7e?style=for-the-badge&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PyTorch-f75c7e?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-f75c7e?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-f75c7e?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-f75c7e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Power_BI-f75c7e?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/AWS-f75c7e?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-f75c7e?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Terraform-f75c7e?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-f75c7e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://api.iconify.design/simple-icons/python.svg?color=%23f75c7e" alt="Python" title="Python" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%23f75c7e" alt="PyTorch" title="PyTorch" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23f75c7e" alt="SQL" title="SQL" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23f75c7e" alt="Power BI" title="Power BI" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/mdi/aws.svg?color=%23f75c7e" alt="AWS" title="AWS" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/googlecloud.svg?color=%23f75c7e" alt="Google Cloud" title="Google Cloud" height="100" />
 </p>
 
 <p align="center">
@@ -50,9 +42,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f75c7e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%23f75c7e" alt="LinkedIn" title="LinkedIn" height="100" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:seu_email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-f75c7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://api.iconify.design/mdi/gmail.svg?color=%23f75c7e" alt="Gmail" title="Gmail" height="100" />
   </a>
 </p>
