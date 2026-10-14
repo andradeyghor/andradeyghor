@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- TÍTULO TOTALMENTE ESTÁTICO (SEM ANIMAÇÃO DE DIGITAÇÃO) NA COR #f75c7e -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f75c7e&text=Ol%C3%A1,%20eu%20sou%20Yghor!&height=50&fontSize=32&fontAlign=50&fontAlignY=50" alt="Olá, eu sou Yghor!" />
+<!-- TÍTULO ESTÁTICO CARREGADO INSTANTANEAMENTE DO SEU REPOSITÓRIO (#f75c7e) -->
+<p align="center">
+  <img src="title.svg" alt="Olá, eu sou Yghor!" height="45" />
+</p>
 
 <!-- APENAS AS SUAS ÁREAS SENDO DIGITADAS -->
 <p align="center">
@@ -15,7 +17,6 @@
 ---
 
 </div>
-
 
 ### Sobre mim
 
@@ -53,11 +54,11 @@
   <br/>
   
   <p align="center">
-    <a href="https://github.com/SEU_USUARIO/NOME_DO_PROJETO_1">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_PROJETO_1&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 1" />
+    <a href="https://github.com/andradeyghor/NOME_DO_PROJETO_1">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=andradeyghor&repo=NOME_DO_PROJETO_1&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 1" />
     </a>
-    <a href="https://github.com/SEU_USUARIO/NOME_DO_PROJETO_2">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_PROJETO_2&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 2" />
+    <a href="https://github.com/andradeyghor/NOME_DO_PROJETO_2">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=andradeyghor&repo=NOME_DO_PROJETO_2&bg_color=ffffff&title_color=f75c7e&text_color=334155&icon_color=f75c7e&border_color=e2e8f0" alt="Projeto 2" />
     </a>
   </p>
 </details>
