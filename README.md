@@ -39,6 +39,16 @@
 
 ---
 
+### Projetos em Destaque
+
+| Projeto | Descrição | Foco / Stack |
+| :--- | :--- | :--- |
+| **[API Risco de Crédito](https://github.com/andradeyghor/api-risco-credito-kedro)** | Pipeline modular de risco de crédito e deploy de modelo | `Crédito` `Kedro` `Python` |
+| **[AI Agent (AI-901)](https://github.com/andradeyghor/ai901_agent)** | Implementação prática de agentes de IA | `GenAI` `LangChain` `Ollama` |
+| **[Desafio Itaú IA](https://github.com/andradeyghor/desafio-itau)** | Solução preditiva para o setor financeiro | `Machine Learning` `Python` |
+
+---
+
 ### Você pode me contatar nos seguintes canais
 
 <p align="center">
